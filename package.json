@@ -1,0 +1,23 @@
+{
+  "name": "restful-api",
+  "version": "1.0.0",
+  "description": "basic restful api",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabishrahmani/RESTful-API.git"
+  },
+  "author": "tabish rahmani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabishrahmani/RESTful-API/issues"
+  },
+  "homepage": "https://github.com/tabishrahmani/RESTful-API#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.12"
+  }
+}
